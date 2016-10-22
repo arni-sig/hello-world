@@ -1,3 +1,4 @@
 # hello-world
 Just a test!
-First winter day.
+
+ÁS, arni-sig is an author, programmer from Iceland.
